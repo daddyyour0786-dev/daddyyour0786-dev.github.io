@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lsyfree.music",
+      "sha256_cert_fingerprints": ["2C:B0:EE:CA:94:B1:1D:E3:7E:AB:48:43:68:C6:F7:8A:D7:15:3F:00:1E:D2:70:D3:5D:2A:80:28:D6:A3:AE:F6"]
+    }
+  }
+]
